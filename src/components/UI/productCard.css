@@ -67,6 +67,7 @@
 
 .ri-add-line {
   font-size: 20px;
+  cursor: pointer;
 }
 
 @media (min-width: 420px) and (max-width: 780px) {
